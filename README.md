@@ -1,131 +1,64 @@
+<!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=2200&pause=600&color=00FF9C&center=true&vCenter=true&width=1000&lines=ACCESS+GRANTED;PRATIK+KUMAR+//+SYSTEM+ONLINE;CSE+UNDERGRAD+%7C+WEB+%7C+IOT+%7C+AI;CODE.+BUILD.+SHIP.+REPEAT." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Pratik+Kumar+👋;CSE+Undergraduate+%7C+Web+Developer;IoT+%26+AI+Project+Builder;Always+Learning+%26+Building" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pratik-kr21&style=for-the-badge&color=00ff9c" />
-  <img src="https://img.shields.io/github/followers/Pratik-kr21?style=for-the-badge&color=red" />
-  <img src="https://img.shields.io/github/stars/Pratik-kr21?style=for-the-badge&color=yellow" />
-</p>
-
----
-
-## 🧬 SYSTEM PROFILE
-```txt
-User     : Pratik Kumar
-Role     : Computer Science Engineering Undergraduate
-Location : Chandigarh University, India
-Status   : Building real systems, not tutorials
-Focus    : Web Dev • IoT • AI • DSA
-````
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420"/>
+  <img src="https://komarev.com/ghpvc/?username=Pratik-kr21&style=for-the-badge&color=blue" />
 </p>
 
 ---
 
-## ⚙️ TECH STACK // WEAPONS
+## 👋 About Me
+🎓 **Computer Science Engineering Undergraduate**  
+📍 Chandigarh University, India  
 
-**Languages**
-
-* C++
-* Python
-* Java
-* SQL
-* JavaScript
-
-**Web / Backend**
-
-* React
-* Node.js
-* Supabase
-* REST APIs
-
-**Hardware**
-
-* Arduino
-* ESP32
-* IR & Ultrasonic Sensors
-* L298N Motor Driver
-
-**Tools**
-
-* Git & GitHub
-* Linux (basic)
-* UI/UX (Figma, Uizard)
+I focus on building **practical, working projects** across **web development, IoT systems, and AI-based applications**, with emphasis on **clean logic, scalability, and real-world use cases**.
 
 ---
 
-## 📊 SYSTEM METRICS
+## 🛠️ Tech Stack
+
+### 💻 Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🌐 Web & Backend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### 🤖 Hardware & IoT
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-323232?style=for-the-badge&logo=espressif&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pratik-kr21&show_icons=true&theme=vision-friendly-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pratik-kr21&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik-kr21&layout=compact&theme=vision-friendly-dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratik-kr21&theme=high-contrast&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik-kr21&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🚀 PROJECTS
-
-* **AI Sign Language to Text Converter** – Camera-based sign recognition using computer vision
-* **Obstacle Avoiding + Line Following Robot** – Arduino, IR, ultrasonic, L298N
-* **RoomFinder** – Vacant classroom finder (app concept)
+## 🏆 Highlights
+- 🤖 Built multiple **IoT & robotics projects**
+- 🧠 Strong focus on **DSA & system fundamentals**
 
 ---
 
-## 🏆 ACHIEVEMENTS
-
-* 🥇 Winner – **Enigma Quest (2025)**
-* 🤖 Multiple IoT & robotics builds
-* 📄 Working on **IEEE-format research paper**
-* 🧠 Strong focus on **DSA & system thinking**
+## 📫 Connect With Me
+- GitHub: https://github.com/Pratik-kr21  
+- LinkedIn: *(add when ready)*  
 
 ---
 
-## 🧠 PHILOSOPHY
-
-```txt
-No shortcuts.
-No fake titles.
-Just skills, systems, and consistency.
-```
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="380"/>
-</p>
-
----
-
-## 📡 CONNECT
-
-* GitHub → [https://github.com/Pratik-kr21](https://github.com/Pratik-kr21)
-* LinkedIn → (add when ready)
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="350"/>
-</p>
-
-⚔️ **SYSTEM ONLINE. READY FOR DEPLOYMENT.**
-
-```
-
----
-
-This is:
-- ✅ **One file**
-- ✅ **Short but complete**
-- ✅ **Aggressive hacker vibe**
-- ✅ **Zero fluff, zero lies**
-
-If you want **next-level insanity** (terminal fake logs, matrix rain, red-only theme), say it.
-```
+⭐ *Focused on fundamentals. Building consistently.*
