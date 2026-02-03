@@ -1,20 +1,22 @@
-<!-- Animated Header -->
+<!-- 🔥 HERO ANIMATED HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Pratik+Kumar+👋;CSE+Undergraduate+%7C+Web+Developer;IoT+%26+AI+Project+Builder;Always+Learning+%26+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey+👋+I'm+Pratik+Kumar;CSE+Undergraduate+⚡+Builder+%26+Problem+Solver;Web+Dev+%7C+IoT+%7C+AI+Projects;Turning+Ideas+Into+Working+Systems" />
 </p>
 
 
+
 ---
 
-## 👋 About Me
+## ⚡ About Me
 🎓 **Computer Science Engineering Undergraduate**  
 📍 Chandigarh University, India  
 
-I focus on building **practical, working projects** across **web development, IoT systems, and AI-based applications**, with emphasis on **clean logic, scalability, and real-world use cases**.
+I build **real, working systems** — not just demos.  
+My focus is on **web development, IoT systems, and AI-based solutions** that solve practical problems with clean logic and scalable design.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Tech Arsenal
 
 ### 💻 Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -28,34 +30,47 @@ I focus on building **practical, working projects** across **web development, Io
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### 🤖 Hardware & IoT
+### 🤖 Hardware & Systems
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-323232?style=for-the-badge&logo=espressif&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Power Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pratik-kr21&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pratik-kr21&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik-kr21&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik-kr21&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 🔥 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratik-kr21&theme=react-dark&hide_border=true" />
 </p>
 
 ---
 
 ## 🏆 Highlights
-- 🤖 Built multiple **IoT & robotics projects**
-- 🧠 Strong focus on **DSA & system fundamentals**
+- 🤖 Multiple **robotics & IoT builds**
+- 🧠 Strong foundation in **DSA & system thinking**
 
 ---
 
-## 📫 Connect With Me
-- GitHub: https://github.com/Pratik-kr21  
-- LinkedIn: https://www.linkedin.com/in/kumarpratik21 
+## 🚀 Mindset
+> *Consistency. Curiosity. Execution.*
 
 ---
 
-⭐ *Focused on fundamentals. Building consistently.*
+## 📫 Let’s Connect
+- 🌐 GitHub: https://github.com/Pratik-kr21  
+- 💼 LinkedIn: https://www.linkedin.com/in/kumarpratik21  
+
+---
+
+🔥 **Building. Breaking. Learning. Repeating.**
