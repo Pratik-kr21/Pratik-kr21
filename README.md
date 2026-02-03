@@ -3,9 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Pratik+Kumar+👋;CSE+Undergraduate+%7C+Web+Developer;IoT+%26+AI+Project+Builder;Always+Learning+%26+Building" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pratik-kr21&style=for-the-badge&color=blue" />
-</p>
 
 ---
 
@@ -57,7 +54,7 @@ I focus on building **practical, working projects** across **web development, Io
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/Pratik-kr21  
-- LinkedIn: *(add when ready)*  
+- LinkedIn: https://www.linkedin.com/in/kumarpratik21 
 
 ---
 
