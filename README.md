@@ -34,17 +34,6 @@ My focus is on **web development, IoT systems, and AI-based solutions** that sol
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-323232?style=for-the-badge&logo=espressif&logoColor=white)
 
----
-
-## 📊 GitHub Power Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pratik-kr21&show_icons=true&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik-kr21&layout=compact&theme=radical&hide_border=true" />
-</p>
 
 ---
 
